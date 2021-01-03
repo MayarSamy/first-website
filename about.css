@@ -1,0 +1,41 @@
+
+
+#contents {
+	margin-right: 310px;
+	margin-left: 10px;
+        margin-bottom: 100px;
+	padding: 20px;
+	font-size: 110%;
+}
+
+#contents img{
+	margin-left: 310px;
+}
+
+#sidebar {
+        margin: 10px;
+        padding: 20px;
+	width: 300px;
+        height: 500px;
+	float: right;
+	clear: right;
+}
+
+
+
+#sidebar  ul li a {
+	display: inline;
+	text-decoration: none;
+	padding-left: 30px;
+	padding-right: 30px;
+	transition: 1s;
+}
+
+#sidebar  ul li a:hover {
+	background: #5c755e;
+	border-radius: 5px;
+	color: black;
+	font-size: 130%;
+	transition: 1s;
+}
+

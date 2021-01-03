@@ -1,0 +1,21 @@
+
+
+#contents {
+	margin-right: 310px;
+	margin-left: 10px;
+        margin-bottom: 100px;
+	padding: 20px;
+	font-size: 110%;
+}
+
+
+
+#sidebar {
+        margin: 10px;
+        padding: 20px;
+	width: 300px;
+        height: 700px;
+	float: right;
+	clear: right;
+}
+
